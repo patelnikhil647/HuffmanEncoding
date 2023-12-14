@@ -1,0 +1,4 @@
+What's up!
+This is a decently sized .txt file
+with a range of characters being used!
+Have a wonderful day :)
